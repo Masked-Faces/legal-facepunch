@@ -1,0 +1,299 @@
+# Terms of Service
+
+*Last updated on 15 July 2025*
+
+> **IMPORTANT NOTICE FOR USERS IN THE UNITED STATES:** PLEASE READ THESE TERMS OF USE CAREFULLY - THEY AFFECT YOUR LEGAL RIGHTS AND OBLIGATIONS, AND INCLUDE WAIVERS OF RIGHTS AND LIMITATIONS OF LIABILITY. THEY ALSO REQUIRE DISPUTES BETWEEN YOU AND US TO BE RESOLVED THROUGH BINDING INDIVIDUAL ARBITRATION AND REQUIRE YOU TO WAIVE ANY RIGHT TO A JURY TRIAL, CLASS ACTIONS OR PROCEEDINGS, AND ANY OTHER COURT PROCEEDING OF ANY KIND, SUBJECT TO LIMITED EXCEPTIONS. UNLESS YOU OPT OUT IN ACCORDANCE WITH THE OPT-OUT PROCEDURES DESCRIBED BELOW, YOU WILL BE BOUND BY THESE TERMS. THE FULL TERMS OF THE ARBITRATION AGREEMENT ARE BELOW.
+
+**A quick summary:**
+
+These are the (legally binding) terms and conditions for Facepunch's games and services (which we call the Facepunch Services - see section 1.2 below for how we define this). In particular please note the following:
+
+- **Rules.** There are rules (and consequences) regarding what you can and cannot do with the Facepunch Services, and in some situations these also apply outside the Facepunch Services (please see section 3 and 9 below). In particular, if you are banned (e.g. for cheating) then you will lose access to the relevant game and any in-game purchases.
+- **Beta / Early Access.** Some products and services we may release on a "alpha", "beta" or "Early Access" basis - these may contain bugs and require server / progress resets - please see section 2.4 for more details.
+- **Liability and Disputes.** There are rules and limits on liability and rules on dispute resolution (including mandatory arbitration and waiver of jury trial for claims brought in the USA) - see sections 9 and 12.
+- **s&box.** This Agreement does not apply to s&box, for the s&box terms please see www.facepunch.com/legal/sbox/eula.
+- **Contact.** You can contact us on legal@facepunch.com if you've got questions about this Agreement or general legal matters at Facepunch (polite note that email is only for legal matters, not general enquiries). For anything else, please contact our support team at https://support.facepunchstudios.com/hc/en-us.
+
+This Terms of Service ("Agreement") explains what you can and cannot do with Facepunch games, products and services (which we explain below). We know legal wording is not much fun, so there's also a quick summary of each section (but the full version is the legally binding one). Please also read our Code of Conduct (www.facepunch.com/legal/code-of-conduct), Fan Content and Broadcasting Guidelines (www.facepunch.com/legal/ugc/), Modding Guidelines (www.facepunch.com/legal/modding), IP Policy and Community Server & Hosting Guidelines (www.facepunch.com/legal/servers) and other legal guidance (www.facepunch.com/legal/). If you'd like to know more about our data practices, please see our Facepunch Privacy Policy (www.facepunch.com/legal/).
+
+## 1. About This Agreement
+
+> **Summary:** We're Facepunch, it applies to our games (like Garry's Mod and Rust - but not s&box, which has its own set of terms), this is a legally binding document, we can change it as explained below, it contains a mandatory arbitration agreements and class action waiver for U.S.-based users; also check out our Privacy Policy and other legal fun.
+
+### 1.1. What is this Agreement?
+
+This Agreement is a legally binding contract between you and Facepunch Studios Ltd, (incorporated and registered in England with company number 06848626) of 8th Floor, 103 Colmore Row, Birmingham, B3 3AG, United Kingdom, as well as the Facepunch group of companies ("Facepunch").
+
+### 1.2. What does this Agreement apply to?
+
+All of our video games (e.g. Garry's Mod, Rust on PC, Chippy, Clatter) except s&box, our websites, any game keys or codes, Facepunch Virtual Goods (defined below), our software development kits, forums, assets and tools, plus all other Facepunch products and services (e.g. user accounts, customer and technical support, wikis, blogs and social media services) - we will refer to "Facepunch Services" to cover all of these things. To review the terms that apply to s&box, please see www.facepunch.com/legal/sbox/eula. For the terms applying to Rust on PlayStation and Xbox, please see Double 11's terms: https://rust.double11.com/eula - please contact Double 11 for all queries and issues in relation to Rust on PlayStation and Xbox.
+
+### 1.3. When does this Agreement apply to you?
+
+As soon as you download, install or use any of the Facepunch Services. If you do not agree to it, please do not use any of the Facepunch Services.
+
+### 1.4. What happens if we change this Agreement and/or the Facepunch Services?
+
+We may make changes to the Facepunch Services and/or this Agreement for various reasons - such as to reflect changes in applicable laws or regulatory requirements and/or to implement technical changes or improvements (e.g., to address a security issue or changes in our business practices). If we make minor changes, these should not impact your use of the Facepunch Services. If we make more significant changes to the Facepunch Services and/or this Agreement, then we will endeavour to notify you reasonably in advance. Changes will come into effect either as soon as they go live (in the case of minor changes) or following expiry of any applicable notice period (if they are significant). If you do not agree to any significant changes, you may not continue to access the Facepunch Services (although we're happy to discuss any appropriate next steps with you).
+
+## 2. Using the Facepunch Services
+
+> **Summary:** You have the personal right to use the Facepunch Services (but Facepunch owns them). You need to be at least 13 to use Facepunch Services. There are technical requirements for using them.
+
+### 2.1. Use of Facepunch Services.
+
+Your use of the Facepunch Services is for you alone, so you cannot give, "sell", lend, gift, assign, sub-license or otherwise transfer it to someone else. Legally speaking, we give you a personal, limited, revocable, non-exclusive, non-transferable and non-assignable licence to display, view, download, install, play and use the Facepunch Services on authorised devices/platforms. If any of them require a user account then you are responsible for keeping the account safe and secure; if someone else breaches this Agreement whilst using your account, this will not result in any sanctions being removed from your account.
+
+### 2.2. Are there any age restrictions?
+
+Legally, you must be at least 13 years old to use the Facepunch Services, but this might be older depending on whether or not a particular Facepunch Service has a required minimum age rating. If you are between 13 and 18 (or whatever is the age of adulthood in your country), please ask your parent or guardian to review and approve this Agreement and to supervise your use of the Facepunch Services.
+
+### 2.3. Technical requirements.
+
+Some Facepunch Services will have minimum requirements (e.g. minimum computer specifications or require an internet connection) and it is your responsibility to ensure you meet these requirements before downloading or using them. In order to protect Facepunch, Facepunch users and to enforce this Agreement, Facepunch may deploy anti-cheat and/or other software tools that run in the background of your device or related devices/peripherals when you use the Facepunch Services. We may patch, update or change the Facepunch Services over time (e.g. to add or remove game features). This may result in mandatory and/or automatic updates, meaning older or un-updated versions may become unusable over time as a result. We may also stop supporting older devices/platforms over time, but we will use reasonable efforts to notify this to you in advance.
+
+### 2.4. Beta/Early Access release.
+
+We may release some Facepunch Services before their full commercial release to test the features, capabilities, and performance of the product. This could be in prototype, alpha, beta or Early Access or other pre-full release mode. Please remember that these versions might contain bugs, we might add or remove features and there may be server/progress resets (including for Virtual Goods). We might set other requirements too but these will be notified to you.
+
+### 2.5. What about third party access and content?
+
+We are not responsible for any third-party content on the Facepunch Services (e.g. links to third party sites on our social media) or third-party services which you access the Facepunch Services from (e.g. Steam).
+
+## 3. Rules for Using the Facepunch Services
+
+> **Summary:** This section sets out the rules for you to follow when using the Facepunch Services - e.g. no hacking, cheating, harmful conduct etc. Breaking these rules could result in suspension or cancellation (temporary or permanent) of your access to the Facepunch Services, including loss of access to any Virtual Goods you have purchased.
+
+### 3.1. Rules you must NOT break:
+
+Please follow these rules carefully since failure will be considered a material breach of this Agreement, which could lead to suspension or cancellation (temporary or permanent) of your access to the Facepunch Services. Here are the rules - you must NOT:
+
+- **i. Personal Enjoyment only:** use the Facepunch Services for any commercial purposes (unless permitted in the Fan Content Guidelines (www.facepunch.com/legal/ugc/) or Modding Guidelines (www.facepunch.com/legal/modding)) or political purposes;
+- **ii. Restricted Access:** attempt to copy, rent, steal, sell, lend, lease, sublicense, distribute, publish or publicly display the Facepunch Services;
+- **iii. Technical Misuse:** modify, merge, distribute, translate, reverse engineer, decompile or attempt to obtain or use source code of the Facepunch Services unless you are specifically allowed by applicable law;
+- **iv. Interfering:** hack, harm, grief, harass, threaten, interrupt, interfere with or misuse the Facepunch Services, accounts, network software and services or Facepunch's other users, community members or staff.
+- **v. Cheating:** create, use, make available and/or distribute cheats, exploits, automation software, robots, bots, hacks, spiders, spyware, scripts, trainers, extraction tools, mining or other software that interact with or affect the Facepunch Services in any way. Encouraging cheating, knowingly playing with cheaters or benefitting from cheating (even if you're not cheating yourself) will also be considered a breach of this rule. Mods are OK as long as they follow these rules, the Fan Content Guidelines (www.facepunch.com/legal/ugc/) and the Modding Guidelines (www.facepunch.com/legal/modding).
+- **vi. No Advertising:** post any commercial advertisement, promotion, spam or unsolicited messages through the Facepunch Services.
+- **vii. Names/Trade Marks:** use Facepunch, the names of any Facepunch Services or other Facepunch names or logos or trademarks for any commercial purpose without our permission.
+- **viii. Infringing Content:** do anything in connection with the Facepunch Services that infringes any copyright, trade mark, patent, trade secret, privacy, publicity, or other right of Facepunch or others.
+- **ix. Conduct:** do or say anything unlawful, racist, harassing, threatening, abusive, hateful, xenophobic, sexist, discriminatory, abusive, defamatory, obscene, invasive of the privacy of another person or otherwise offensive. This includes in any chat or other communications with users. Facepunch reserves the right to monitor the content of any of your messages and prevent your use of any such chat or other communication systems for any reason.
+
+### 3.2. Enforcement.
+
+We use both human moderators and technological means to uphold our rules. This involves both reactive measures (e.g. following a report by a user or the authorities) and proactive steps to stop inappropriate User Generated Content appearing in the Facepunch Services (e.g. via use of chat filters). If you think that we have made an error regarding any suspension or cancellation (either of particular User Generated Content or your account), please contact us as set out in section 10.2.
+
+### 3.3. Extended scope of rules.
+
+- **(i)** To the extent permitted by applicable law, the rules in section 3.1. above apply not only to the Facepunch Services but also if you create User Generated Content based on our Games or engage with Facepunch or its staff in any way (e.g. via our website, social media or at in-person events). For example, Facepunch may take action against you (which may involve temporary or permanent suspension of access to our Games) if you harass, threaten or grief our staff on social media or via support tickets.
+
+- **(ii)** Similarly, the rules would apply to a livestream or video of our Game that promotes cheating or hacking, or where you engage in behaviour that may be deemed offensive, threatening or hateful. To be clear, Facepunch is not monitoring everything that happens outside of its Games, but if we are made aware of behaviour or activity involving our Games that breaches our Agreement then Facepunch has the right to act.
+
+## 4. Intellectual Property Rights
+
+> **Summary:** The Facepunch Services are owned/licensed by Facepunch.
+
+### 4.1. Who owns the Facepunch Services?
+
+Facepunch owns or licences the Facepunch Services in their entirety (e.g. their visual components, characters, story, items, music, graphics, computer code, user interface, look and feel, game mechanics, gameplay, audio, video, text, layout, databases, data and all other content and all intellectual property and other legal and exploitation rights regarding them), including any improvements or updates. All rights in the Facepunch Services are reserved except as explained in this Agreement.
+
+## 5. Fan Content, Mods and Community Servers
+
+> **Summary:** We are pretty open about user generated content and stuff like that but there are some basic rules - you can read our Fan Content Guidelines here (www.facepunch.com/legal/ugc) and our Modding Guidelines here (www.facepunch.com/legal/modding). You are responsible for any content you share via the Facepunch Services.
+
+### 5.1. What is our position on mods, community servers and fan content?
+
+You can read our Fan Content Guidelines (www.facepunch.com/legal/ugc/) for our position on user generated content including fan art and videos/streams/Let's Plays ("User Generated Content"). By posting any User Generated Content on the Facepunch Services you are giving us permission to use it (legally, you give us a non-exclusive, permanent, irrevocable, worldwide, sub-licensable, royalty-free licence to use, modify, reproduce, create derivative works from, distribute, transmit, communicate and publicly display/perform your User Generated Content in connection with the Facepunch Services). If you do not agree to this, please do not post any User Generated Content. For Mods and standalone tools/products based on our games, please see our Modding Guidelines at www.facepunch.com/legal/modding. For community servers, please see our Community Server & Hosting Guidelines at www.facepunch.com/legal/servers.
+
+### 5.2. What if someone is infringing my intellectual property rights?
+
+Please refer to our IP Policy (www.facepunch.com/legal/ip/) if you think someone is infringing your intellectual property rights.
+
+## 6. Software Development Kits
+
+> **Summary:** You can use our SDKs to make mods and other content for use in the Facepunch Services. Some basic legal rules apply.
+
+### 6.1 Using our software development kits.
+
+You are welcome to use our publicly available software development kits, assets and tools ("SDKs") to enrich your experience with our games (such as our Rust World SDK found at https://github.com/Facepunch/Rust.World).
+
+### 6.2 Who owns the SDKs?
+
+The SDKs, including any improvements or updates to them, belong to Facepunch. Any mods made using the SDKs belong to you, subject to our Modding Guidelines (www.facepunch.com/legal/modding).
+
+### 6.3 Are there any additional requirements you should know about?
+
+Yes, some SDKs may be subject to additional terms (such as an open source licence). Any additional legal terms will be detailed in the SDK's description. If you are not sure, please contact us at legal@facepunch.com before you use our SDKs.
+
+## 7. Virtual Goods
+
+> **Summary:** You may be able to buy and/or otherwise obtain things like cosmetics or in-game enhancements and there are some additional legal rules for them. They do not have any "real world" monetary value and you cannot buy, sell or trade these with other users.
+
+### 7.1. Do the Facepunch Services offer virtual goods?
+
+Certain Facepunch Services may let you purchase and/or otherwise obtain virtual, in-game digital items and content including cosmetic and in-game enhancements and other downloadable content ("Virtual Goods").
+
+### 7.2. Are there any additional payment requirements you should know about?
+
+If you buy Virtual Goods, you agree to the pricing, payment and billing policies applicable to them, as notified to you at the time of purchase. You are responsible for applicable fees and taxes. All payments are non-refundable and non-transferable except as expressly provided in this Agreement.
+
+### 7.3. What are the legal requirements regarding Virtual Goods?
+
+Virtual Goods are digital items only with no cash-value or real world existence and they generally cannot be "bought", "sold", gifted, transferred, traded or redeemed in any way. There may be some platforms where the Virtual Goods do have some limited transfer rights, which will be explicitly authorised and permitted by Facepunch and the relevant platform (e.g. via the Steam marketplace). In legal terms, you receive a limited, non-exclusive, non-assignable, non-transferable, non-sub-licensable, revocable licence to use Virtual Goods solely for your personal entertainment and non-commercial use in the relevant Facepunch Service (except where explicitly authorised and permitted by Facepunch and the relevant platform), but Facepunch remains the legal owner of Virtual Goods at all times.
+
+### 7.4. Will these Virtual Goods expire, change or be revoked?
+
+Virtual Goods do not generally expire (unless they're stated to expire or are consumables). Facepunch is entitled to revoke from users (without notice or compensation) any Virtual Goods that have been obtained by way of (e.g.) bug, hack, breach, or exploitation of the Facepunch Services. We are entitled to manage, regulate, control, discontinue, vary, modify and/or remove Virtual Goods at our discretion if we consider (acting reasonably) that this is necessary for the ongoing operation or protection of the Facepunch Services or for other legitimate business, legal or technical reasons. We will try to give you reasonable advance notice of any such changes where appropriate and discuss any appropriate next steps with you.
+
+### 7.5. Can you refund purchases of the Facepunch Services and/or Virtual Goods?
+
+Your refund rights will depend on the terms of any applicable device/platform via which you access the Facepunch Services on, in relation to Facepunch itself:
+
+**If you are resident in the United Kingdom or the European Union:** By law you have the right to withdraw from a purchase of the Facepunch Services and/or Virtual Goods within 14 days of your purchase, without giving a reason. HOWEVER, when you make a purchase of Facepunch Services and/or Virtual Goods, the relevant platform (e.g. Steam) will obtain your consent to the immediate supply of Facepunch Services and/or Virtual Goods and your acknowledgement that you will lose your withdrawal right as soon as that supply begins. This means that you lose your right of withdrawal as soon as your account is provided with access to the relevant Facepunch Services and/or Virtual Goods (which is typically straight away). You may also have statutory refund (and other) rights if we supply you Facepunch Services which are in breach of our statutory obligations (e.g. it's not fit for purpose or not as described).
+
+**If you are resident elsewhere in the world outside the United Kingdom or European Union (including the USA):** All purchases are final and no refunds will be made or returns accepted (except where you have a legal entitlement to this, if applicable).
+
+## 8. Feedback or Suggestions
+
+> **Summary:** Feedback and suggestions are great (thank you!) but at our discretion without responsibility/liability.
+
+We always welcome and appreciate feedback and suggestions (you can send these to legal@facepunch.com) but we may choose not to use or accept them at our discretion. In any event the feedback/suggestions will be received by us without any credit, compensation, obligations or liability to you. If you provide Facepunch with any feedback or suggestions, you hereby grant Facepunch a non-exclusive, royalty-free, worldwide, perpetual, irrevocable, sublicensable, and transferable licence to use, reproduce, distribute, modify, adapt, prepare derivative works based on, publicly perform, publicly display, make, have made, use, sell, offer to sell, import, and otherwise exploit any and all feedback and / or suggestions for any purposes, for all current and future methods and forms of exploitation.
+
+## 9. Liability
+
+> **Summary:** Here we explain a bit further how you and we are legally responsible to each other. We ask for certain legal protections from you.
+
+### 9.1. Limitation of liability (UK and EU only).
+
+This section applies to you if you are resident in the United Kingdom or European Union. If you are resident in the United States of America or other non-UK/EU territory, please see section 9.3 below.
+
+1. We do not exclude or limit (or seek to exclude or limit) our liability to you where it would be unlawful to do so. This includes our liability for:
+   - death or personal injury caused by our negligence (or the negligence of our employees, agents or subcontractors);
+   - fraud or fraudulent misrepresentation;
+   - breach of your statutory rights as a consumer; or
+   - other liability which may not be excluded by applicable law.
+
+2. We only supply the Facepunch Services for domestic and private use. If you use the Facepunch Services for any commercial, business or re-sale purposes we will have no liability to you for any loss of profits, loss of business, business interruption or loss of business opportunity.
+
+3. If we fail to comply with this Agreement, we are responsible for loss or damage you suffer that is a foreseeable result of our breaking this Agreement, or our failure to use reasonable care and skill. Loss or damage is foreseeable if either it is obvious that it will happen or if, at the time the Agreement was agreed to, both we and you knew it might happen. We are not responsible for any loss or damage that is not foreseeable.
+
+4. If the Facepunch Services damage a device or digital content belonging to you, and this is caused by our failure to use reasonable care and skill, we will either repair the damage or pay you compensation. However, we will not be liable for damage which you could have avoided by following our advice to apply an update offered to you free of charge or for damage which was caused by you failing to correctly follow installation instructions or have in place the advised minimum technical requirements.
+
+### 9.2. Liability cap (UK and EU).
+
+Subject always to 9.1. above: (i) the total liability of Facepunch (and its group companies) arising out of or in connection with this Agreement will not exceed the total amount you have paid to us under this Agreement during the twelve (12) months immediately prior to the event which caused the liability; and (ii) the Facepunch Services are provided on an "as is" basis and we make no specific warranty or representation in relation to the quality, completeness or accuracy of the Facepunch Services.
+
+### 9.3. Limitation of liability (USA and non-UK and EU countries).
+
+The following section applies to users in the USA and other non-EU and UK countries.
+
+- **(I) OUR DISCLAIMERS.** THE FACEPUNCH SERVICES (INCLUDING ANY UPDATES) ARE PROVIDED TO YOU ON AN "AS IS", "AS AVAILABLE" BASIS WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EXPRESS OR IMPLIED. WE DO NOT WARRANT THAT THE FACEPUNCH SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE GAME WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. FACEPUNCH, ITS AFFILIATES, PARTNERS AND LICENSORS SHALL NOT BE LIABLE FOR ANY LOSS, DAMAGE OR HARM OF ANY KIND ARISING FROM THE USE OR INABILITY TO USE OR "LOSS" RELATING TO THE FACEPUNCH SERVICES. YOU UNDERSTAND THAT CERTAIN PORTIONS OF THE FACEPUNCH SERVICES ARE MADE POSSIBLE BY THIRD PARTIES. YOU AGREE THAT FACEPUNCH DOES NOT CONTROL ANY THIRD PARTIES AND WILL NOT BE RESPONSIBLE FOR ANY LOSSES OR HARM THAT THEY CAUSE EITHER DIRECTLY OR INDIRECTLY.
+
+- **(II)** TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL FACEPUNCH, ITS AFFILIATES, PARTNERS AND LICENSORS, OR ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES, OR INDEPENDENT CONTRACTORS, BE LIABLE (JOINTLY OR SEVERALLY) TO YOU FOR: (1) ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, CONSEQUENTIAL OR PUNITIVE LOSSES, OR (2) DAMAGES ARISING FROM INTERRUPTIONS; DELETION OF FILES, EMAIL, OR DATA; SYSTEM ERROR, FAILURE OR MALFUNCTION; VIRUSES; DELAYS IN OPERATION OR TRANSMISSION; OR LOSS OF PROFITS, DATA, USE, BUSINESS OR GOOD-WILL; OR (3) YOUR MISUSE OF THE FACEPUNCH SERVICES OR ANY CONTENT AVAILABLE ON OR THROUGH THE FACEPUNCH SERVICES. THE LIMITATIONS SET FORTH IN THIS SECTION SHALL APPLY REGARDLESS OF THE FORM OF ACTION, WHETHER THE ASSERTED LIABILITY OR DAMAGES ARE BASED ON CONTRACT, INDEMNIFICATION, TORT, STRICT LIABILITY, STATUTE OR ANY OTHER LEGAL OR EQUITABLE THEORY.
+
+  **OUR LIABILITY CAP.** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL OUR TOTAL LIABILITY TO YOU IN CONNECTION WITH THE FACEPUNCH SERVICES OR THIS AGREEMENT EXCEED AN AMOUNT EQUAL TO THE AMOUNT YOU HAVE ACTUALLY PAID US (IF ANY) IN CONNECTION WITH THE MATTERS UNDERLYING ANY CLAIM(S). IF APPLICABLE LAW DOES NOT ALLOW ALL OR ANY PART OF THE ABOVE LIMITATION OF LIABILITY TO APPLY TO YOU, THE LIMITATIONS WILL APPLY TO YOU ONLY TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+
+- **(III) YOUR INDEMNITY TO US.** IF SOMEONE SUES FACEPUNCH, ITS AFFILIATES, OR LICENSORS, YOU MAY HAVE TO PAY FOR THEIR DEFENSE AND LEGAL FEES. YOU AGREE TO DEFEND, INDEMNIFY AND HOLD HARMLESS ON DEMAND FACEPUNCH, ITS AFFILIATES, LICENSORS AND PARTNERS, AND ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES, OR INDEPENDENT CONTRACTORS, FROM AND AGAINST ANY AND ALL CLAIMS ASSERTED AGAINST ANY OF THEM ARISING OUT OF OR RELATING YOUR USE OR ACTUAL OR ALLEGED MISUSE OF THE FACEPUNCH SERVICES, VIOLATION OF THESE TERMS, OR YOUR NEGLIGENCE OR MISCONDUCT. THIS APPLIES TO ALL LIABILITIES, CLAIMS AND EXPENSES, INCLUDING LEGAL FEES AND COSTS, ARISING FROM SUCH CLAIMS. IF CLAIMS ARE BROUGHT AGAINST US, THEN YOU WILL COOPERATE FULLY WITH US AND WE RESERVE THE RIGHT TO TAKE OVER THEIR DEFENCE SUBJECT TO INDEMNIFICATION BY YOU. YOU WILL NOT SETTLE ANY SUCH CLAIMS WITHOUT OUR PRIOR WRITTEN CONSENT.
+
+- **(IV) INJUNCTIVE RELIEF.** TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE THAT ANY LOSS, DAMAGE OR HARM YOU SUFFER ARE NOT IRREPARABLE, AND OTHER REMEDIES WILL BE ADEQUATE, SUCH THAT YOU ARE NOT ENTITLED TO INJUNCTIVE OR OTHER EQUITABLE RELIEF AGAINST US.
+
+- **(V) Residents of California.** If you reside in the state of California you are entitled to the following specific consumer rights information: you may contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by mail at 400 R St., Suite 1080, Sacramento, California, 95814, or by telephone at 916.445.1254.
+
+## 10. Termination
+
+> **Summary:** You can terminate this Agreement by stopping use of all Facepunch Services. We may cancel or suspend (temporarily or permanently) your access to any and/or all of the Facepunch Services if you seriously breach this Agreement (including cheating in our games).
+
+### 10.1. When and how can you terminate this Agreement?
+
+You can terminate this Agreement at any time by permanently stopping use of all Facepunch Services. Termination will not affect already existing rights or obligations of us or you.
+
+### 10.2. When can we suspend or terminate your access to the Facepunch Services?
+
+- We may cancel or suspend (temporarily or permanently) your access to any and/or all of the Facepunch Services (including access to Virtual Goods) if you materially breach this Agreement (e.g. the rules in section 3 above, our Code of Conduct or any other breach which is serious and/or which could cause real harm to Facepunch, the Facepunch Services or other Facepunch Services users. If we cancel or suspend your account in this way we will not have any obligations or liabilities to you at all. Regarding bans:
+
+- If you have questions about any game ban or suspension we have issued, then you can contact our support team (https://support.facepunchstudios.com/hc/en-us) and we will use reasonable efforts to explain why we have done this (though we will not be obliged to do so) and what (if anything) you can do as a result.
+- If your ban has been issued by Easy Anti-Cheat and you would like to appeal, please visit: https://www.easy.ac/en-us/support/game/contact/appeal/.
+- If your ban has been issued by Valve (VAC), please visit: https://help.steampowered.com/en/faqs/view/571A-97DA-70E9-FF74.
+
+### 10.3. Service discontinuation notice.
+
+If Facepunch decides itself to stop providing any Facepunch Services permanently, we will try to give you at least sixty (60) days' notice.
+
+## 11. Governing Law & Jurisdiction for Residents in the U.K., E.U. and Elsewhere (but not the United States)
+
+> **Summary:** Any legal questions / complaints / claims regarding this Agreement are under English law and jurisdiction for users all around the world except for users in the United States, whose Disputes with Facepunch Parties are governed by Section 12.2.
+
+### 11.1. If you are resident in the United Kingdom, European Union or elsewhere in the world (but not the USA):
+
+You and we agree that your use of the Facepunch Services, and this Agreement, and any issues arising out of them, will be governed by and interpreted according to the laws of England and any dispute regarding it will be under the jurisdiction of the courts of England. This does not exclude any mandatorily applicable rules or remedies which would be available to you in a legal claim brought under the law of your country of residence. Notwithstanding the foregoing, if you have a Dispute with Facepunch Parties that arises under U.S. law, that Dispute must be resolved through individual arbitration in accordance with Section 12.3 below.
+
+### 11.2. If you are in the United States, or have a Dispute with Facepunch Parties that arises under U.S. law, please see section 12.2 below.
+
+## 12. Dispute Resolution and Binding Arbitration
+
+> **Summary:** If you have any concerns or issues you can contact us at legal@facepunch.com. We hope we can resolve any complaints with you through informal dispute resolution. If we can't resolve a dispute with you informally, if you are in the UK or EU you can bring formal proceedings against us. If you are in the United States, or have a Dispute with Facepunch Parties that arises under U.S. law, your Dispute must be resolved through individual arbitration instead of court trials and class action per Section 12.2 below.
+
+### 12.1. Informal dispute resolution if you live in the United Kingdom, European Union or elsewhere in the world (but not the USA):
+
+We and you both agree to make reasonable and good faith efforts to resolve any dispute between us informally - you can contact us at legal@facepunch.com. Normally we would suggest that this dispute resolution period lasts 30 days unless exceptional circumstances exist. If it is not resolved during this time, the next steps depend on where you live.
+
+Notwithstanding the foregoing, you and we have the legal right to commence legal claims against each other if we consider it necessary. If you bring a claim against Facepunch, you should address it to legal@facepunch.com.
+
+### 12.2. Dispute resolution, Mandatory Arbitration and Class Action Waiver (if you live in the USA ONLY):
+
+THIS SECTION IS ONLY APPLICABLE TO USERS IN THE UNITED STATES, OR USERS THAT HAVE A DISPUTE WITH FACEPUNCH PARTIES THAT ARISES UNDER U.S. LAW. PLEASE READ THIS SECTION (THE "ARBITRATION AGREEMENT") CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS. IT PROVIDES FOR RESOLUTION OF MOST DISPUTES THROUGH INDIVIDUAL ARBITRATION INSTEAD OF COURT TRIALS AND CLASS ACTIONS. THIS SECTION ALSO CONTAINS A JURY TRIAL WAIVER AND A WAIVER OF ANY AND ALL RIGHTS TO PROCEED IN CLASS, COLLECTIVE, CONSOLIDATED, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION IN ARBITRATION OR LITIGATION TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+
+#### (a) Mandatory Individual Arbitration:
+
+Any dispute, claim, or controversy between you and Facepunch, and Facepunch's predecessors in interest, successors, parents, subsidiaries, affiliates, and assigns, as well as each of their respective past, present, and future employees, directors, officers, shareholders, independent contractors, parents, subsidiaries, affiliates, predecessors in interest, successors, and assigns (collectively, "Facepunch Parties"), including but not limited to disputes, claims, or controversies related to or arising from the Facepunch Services, or this Agreement, including, without limitation, those relating to the formation, breach, termination, enforcement, interpretation, validity, scope, or applicability of this Agreement and this Arbitration Agreement (collectively "Dispute"), whether such Dispute arose before, on, or subsequent to you entering these Terms, and if not resolved through the informal dispute resolution procedure set forth below, shall be exclusively resolved by individual, binding arbitration in accordance with this Arbitration Agreement. The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve any Dispute relating to the interpretation, applicability, enforceability, or formation of this Arbitration Agreement, including any claim that all or any part of this Arbitration Agreement is void or voidable. The arbitrator shall also be responsible for determining all threshold arbitrability issues, including issues relating to whether these Terms are unconscionable or illusory, in whole or in part, and any defense to arbitration, including waiver, delay, laches, or estoppel.
+
+Notwithstanding the foregoing and the Class Action/Jury Trial Waiver below, you and Facepunch Parties each retain the right to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation, or violation of a party's copyrights, trademarks, trade secrets, patents, or other IP rights. Any legal action by Facepunch Parties against a non-consumer or its interactions with governmental and regulatory authorities shall not be subject to arbitration. Either party may also elect to have Disputes heard in small claims court seeking only individualized relief, so long as the action is not removed or appealed to a court of general jurisdiction.
+
+If any court or arbitrator determines that this Arbitration Agreement is void or unenforceable for any reason as to Disputes arising before the date of posting of this Arbitration Agreement, then you may still be bound to previous versions of this Arbitration Agreement by reason of your separate agreement to those previous versions. If any Dispute is determined not to be subject to arbitration or resolution in small claims court, the exclusive jurisdiction and venue for proceedings concerning such Dispute shall be the federal or state courts of competent jurisdiction in New York, the State of New York, and shall be interpreted, governed, and enforced in accordance with substantive and procedural law of the State of New York, without regard to choice or conflict of law principles.
+
+If you or Facepunch Parties files or causes to be filed in court (other than small claims court) a complaint alleging a Dispute that is subject to arbitration under this Arbitration Agreement, the defendant/respondent will notify the party or the party's attorney (if an attorney has entered an appearance) of the existence of this Arbitration Agreement, and request that the complaint be withdrawn. If the party does not withdraw the action within 10 calendar days of service of that notice, and the defendant/respondent successfully moves to compel arbitration of the Dispute, the defendant/respondent shall be entitled to its costs and fees (including reasonable attorneys' fees) incurred in seeking to enforce this Arbitration Agreement.
+
+#### (b) Class Action/Jury Trial Waiver
+
+You and Facepunch Parties agree that, to the fullest extent permitted by law, each party is waiving the right to a trial by jury or to participate as a plaintiff, claimant, or class member in any class, collective, private attorney general, representative, or consolidated proceeding. This means that you and Facepunch Parties may not bring a claim on behalf of a class or group and may not bring a claim on behalf of any other person unless doing so as a parent, guardian, or ward of a minor or in another similar capacity for an individual who cannot otherwise bring their own individual claim.
+
+Unless both you and Facepunch Parties agree in writing, any arbitration will be conducted only on an individual basis and not in a class, collective, representative, or consolidated proceeding. Notwithstanding the foregoing, you or Facepunch Parties may participate in a class-wide settlement.
+
+#### (c) Opt-Out Procedures
+
+To opt out of this Arbitration Agreement, you must send us a written notice ("Opt-Out Notice") by email at legal@facepunch.com within 30 days from the date that you first agree to this Agreement (the "Opt-Out Period"). The Opt-Out Notice must contain your full legal name, your complete mailing and email address and phone number, a clear statement that you wish to opt out of this Arbitration Agreement, and your signature. If your Opt-Out Period has passed, you are not eligible to opt out of this Arbitration Agreement, and you will be bound by this Arbitration Agreement which shall supersede and replace in its entirety all previous versions of Facepunch Parties' arbitration agreements and class action provisions.
+
+If you opt out of this Arbitration Agreement, all other provisions of this Agreement will continue to apply to you. Additionally, if you opt out of this Arbitration Agreement, you may still be bound to previous versions of this Arbitration Agreement by reason of your separate agreement to those previous versions. If you timely provide Facepunch Parties with a valid Opt-Out Notice, and you are not bound to any previous or other arbitration agreements with Facepunch Parties, all Disputes between you and Facepunch Parties shall be subject to the exclusive jurisdiction of, and you consent to venue in, the state and federal courts located in New York, the State of New York, and all Disputes shall be interpreted, governed, and enforced in accordance with substantive and procedural law of the State of New York, without regard to choice or conflict of law principles.
+
+If Facepunch Parties make any future changes to this Arbitration Agreement (other than a change to the Notice Address or other non-material changes), Facepunch Parties will provide you with notice (to the extent we have your contact information). You may reject any such change by sending an email to Facepunch Parties at legal@facepunch.com within 30 days of the posting of the amended arbitration agreement that provides: (i) your full legal name, (ii) your complete mailing address, (iii) your phone number, (iv) the change(s) you are rejecting, (v) and, if applicable, the SteamID64, username or email address associated with any purchase from Valve Corporation. This is not an opt out of arbitration altogether. Your continued use of the Facepunch Services after this 30-day period constitutes acknowledgment of, and agreement to, the changes to the Arbitration Agreement.
+
+#### (d) Rules and Governing Law
+
+**Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures:** In the event of a Dispute, you and Facepunch Parties each agree to send the other party a written Notice of Dispute. A Notice of Dispute from you to Facepunch Parties must be emailed to legal@facepunch.com. Any Notice of Dispute must include (i) the claimant's full legal name, complete mailing address, and email address; (ii) a description of the nature and basis of the claim or dispute; (iii) any relevant facts regarding claimant's use of the Facepunch Services, and (iv) a personally signed statement from the claimant (and not their counsel) verifying the accuracy of the contents of the Notice of Dispute. The Notice of Dispute must be individualized, meaning it can concern only your dispute and no other person's dispute. Facepunch Parties will send any Notice of Dispute to you at the email address or mailing address it has for you, if any.
+
+After receipt of a Notice of Dispute, the parties shall engage in a good faith effort to resolve the Dispute for a period of 60 days (which can be extended by agreement). You and we agree that, after receipt of the Notice of Dispute, the recipient may request an individualized telephone or video settlement conference (which can be held after the 60-day period) and both parties will attend (with counsel, if represented). You and we agree that the parties (and counsel, if represented) shall work cooperatively to schedule the conference at the earliest mutually-convenient time and to seek to reach a resolution.
+
+Compliance with this Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures section is a condition precedent to initiating arbitration. Any applicable limitations period (including statute of limitations) and any filing fee deadlines shall be tolled while the parties engage in the informal dispute resolution procedures set forth in this subsection. All of the Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures are essential so that you and Facepunch Parties have a meaningful opportunity to resolve disputes informally. If any aspect of these requirements has not been met, the parties agree that a court of competent jurisdiction may enjoin the filing or stay the prosecution of an arbitration. Nothing in this paragraph limits the right of a party to seek damages for non-compliance with these Procedures in arbitration.
+
+If the parties cannot resolve the Dispute through the Informal Dispute Resolution Procedures above, you and Facepunch Parties each agree that all Disputes shall be resolved exclusively through final and binding individual arbitration, rather than in court. The parties may agree to waive hearings and resolve Disputes through submission of documents. Any arbitration hearing will be conducted remotely by telephone or video conference to the extent possible, but if the arbitrator determines, or the parties agree, that a hearing should be conducted in person, the arbitration hearing will take place as close to your residence as practicable, or another agreed upon locale, and shall be before one arbitrator.
+
+The arbitration will be administered by the AAA under its Commercial Arbitration Rules and, where applicable, its Consumer Arbitration Rules (available at http://www.adr.org), as modified by this Agreement. The arbitration shall be conducted in English by a single arbitrator with substantial experience in intellectual property and commercial contract disputes, selected pursuant to AAA rules. The arbitration hearing may be conducted through the submission of documents, by phone, or in person, and must commence within thirty (30) days from the appointment of the arbitrator, unless otherwise agreed by you and Facepunch. Judgment upon an award rendered by the arbitrator may be entered in any court having jurisdiction or application may be made to such court for judicial acceptance of any award and an order of enforcement, as appropriate.
+
+If you seek US $10,000 or less, Facepunch will reimburse your filing fee and your share of the arbitration costs (but not your attorney's fees or expert witness fees), at the end of the arbitration, unless the arbitrator decides your claims are without merit or your costs are unreasonable. Facepunch will only seek its legal fees and costs if it prevails and the arbitrator determines your claims are meritless. If you seek more than US $10,000, then the arbitration costs, including arbitrator compensation, will be split between you and Facepunch per the applicable AAA rules.
+
+#### (e) Severability & Survival
+
+If any provision of this Arbitration Agreement, or a portion thereof, is found to be void, invalid, or otherwise unenforceable, then that portion shall be deemed to be severable and, if possible, superseded by a valid, enforceable provision, or portion thereof, that matches the intent of the original provision, or portion thereof, as closely as possible. The remainder of this Arbitration Agreement shall continue to be enforceable and valid according to the terms contained herein. Notwithstanding the foregoing, if any court or arbitrator determines that the Class Action/Jury Trial Waiver set forth in this Arbitration Agreement is void or unenforceable for any reason, or that your Dispute can proceed on a class, collective, representative, or consolidated basis, then, after the exhaustion of all appeals of that determination, you and Facepunch Parties shall be deemed not to have agreed to arbitrate Disputes, and your Dispute must be litigated in a federal or state court of competent jurisdiction in New York, the State of New York, and shall be interpreted, governed, and enforced in accordance with substantive and procedural law of the State of New York, without regard to choice or conflict of law principles.
+
+This Arbitration Agreement shall survive termination of these Terms. Except as provided in the opt-out provisions set forth above, the terms and conditions of this Arbitration Agreement shall supersede and replace any and all previous arbitration and class action/jury waiver agreements you may have entered into with Facepunch Parties.
+
+## 13. Other Legal Matters
+
+> **Summary:** This section sets out a few additional, hopefully self-explanatory rules about how this Agreement works legally. For example, this Agreement is just between you and us, we might be required to comply with law enforcement requests etc.
+
+- i. If any part of this Agreement is found not to be legally enforceable, this will not affect any other part of it;
+- ii. This Agreement does not create any rights for anyone else;
+- iii. Please remember that we are subject to various laws and we may be required to comply with law enforcement or other legal requirements, including import/export controls;
+- iv. You and we agree that the UN Convention on Contracts for the International Sale of Goods does not apply to the Facepunch Services or this Agreement;
+- v. We can assign, subcontract or transfer this Agreement to a third party or another member of our group if necessary for the support of the Facepunch Services, as part of any reorganisation or merger, or for other business reasons provided that this does not negatively affect your rights under this Agreement (or alternatively with your consent).
+- vi. No failure or delay by us or you to exercise any right or remedy provided under this Agreement or by law will constitute a waiver of that or any other right or remedy, nor will it preclude or restrict the further exercise of that or any other right or remedy. No single or partial exercise of such right or remedy by us or you will preclude or restrict the further exercise of that or any other right or remedy; and
+- vii. This Agreement does not create any exclusive relationship between us nor any partnership, joint venture, employment or agency.

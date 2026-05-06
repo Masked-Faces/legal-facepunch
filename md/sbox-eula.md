@@ -1,0 +1,66 @@
+# s&box - End User License Agreement (EULA)
+
+*Last updated on 15 July 2025*
+
+We are Facepunch Studios Limited based at 8th Floor, 103 Colmore Row, Birmingham, B3 3AG, United Kingdom ("We", "Facepunch"). We are the developers and publishers of s&box, which includes the s&box editor ("s&box").
+
+Before you head onto s&box, there are a few rules you must read and follow:
+
+## (1) s&box is in development
+
+s&box is still in development and not in its finished state. So, don't be surprised if s&box contains bugs, or might contain features that we change, add or remove later on. s&box is provided "as is" and we make no specific promises or representations in relation to it - including what we may or may not develop in the future.
+
+## (2) s&box belongs to Facepunch
+
+As between you and Facepunch: **(a)** we own all rights in s&box, including any Virtual Goods (described below) (together the "Facepunch Property"); and **(b)** you own all rights in any original games and experiences you make using the s&box engine, but in all circumstances excluding any Facepunch Property or third party property incorporated into or used in connection with such games and experiences ("Experiences").
+
+## (3) Play (and create) by the rules
+
+- **(a)** Please don't do anything that could damage s&box or be harmful to other players or rightsholders - for example, please don't:
+  - **(i)** hack, harm or interfere with s&box or its servers;
+  - **(ii)** grief, harasses, threaten or otherwise engage in illegal, harmful or offensive conduct with Facepunch, its staff or other players;
+  - **(iii)** create, use and/or distribute cheats or exploits, or any other software which affects s&box unless permitted by Facepunch; or
+  - **(iv)** infringe any third party rights.
+
+- **(b)** The rules in (a) above also apply to any Experiences you make - for example, you must not use bot accounts or other methods to artificially inflate user numbers in your Experience.
+
+- **(c)** If you break the rules in this EULA (or we have reasonable grounds to suspect you have broken the rules), then we may temporarily or permanently suspend or cancel your access to s&box without prior warning (and/or we might remove your Experiences too) and you will not be entitled to any refund of (or any access to) your purchase of s&box and any purchased Virtual Goods (defined below).
+
+- **(d)** If you are a rightsholder and believe your intellectual property rights are being infringed in s&box, please review our IP policy: https://facepunch.com/legal/ip.
+
+## (4) The Play Fund
+
+- **(a)** For those of you who want to create Experiences ("Creators") we may reward you via The Play Fund; more information about The Play Fund is available here: https://sbox.game/dev/doc/monetization/. To be clear, Facepunch operates The Play Fund at its sole and absolute discretion, and Creators do not have any right to compensation of any kind in relation to their Experiences or use of s&box. If there are any changes to how The Play Fund operates (including if we suspend or discontinue it) we will make reasonable efforts to update you about this via the website above.
+
+- **(b)** To be eligible for The Play Fund: **(i)** you will need to hold a valid licence to s&box and your account must be in good standing; and **(ii)** any Experiences you have created must be compliant with this EULA, The Play Fund website detailed in (a) above, and any other guidelines we issue to you from time to time. You may need to sign-up to our payment partner Tipalti and abide by their terms too - you are entirely responsible for ensuring all your payment and account details are correct and valid, and for any charges, taxes or fees incurred in relation to payments you receive from The Play Fund. Facepunch will not reward any Creators that breach this EULA or the Tipalti terms, or if we are otherwise prohibited by law (e.g. sanctions).
+
+## (5) Virtual Goods
+
+In s&box you may be able to purchase virtual items, such as digital cosmetic items for your avatar ("Virtual Goods"). Virtual Goods have no cash-value or real-world existence and cannot be "bought", "sold", gifted, transferred, traded or redeemed in any way - in some cases limited transfers may be permitted by the applicable platform (in which case that platform's rules and terms will apply to those transfers). Virtual Goods are provided solely for your personal entertainment and non-commercial use, and Facepunch remains the legal owner at all times.
+
+## (6) Licence
+
+We grant you a non-exclusive, non-transferable, non-assignable, non-sub-licensable and revocable licence to s&box for your personal use, including any relevant Virtual Goods. In turn, you grant to us a non-exclusive, worldwide, royalty-free, sub-licensable, assignable licence over your Experiences so we can distribute your Experience in s&box and promote it.
+
+## (7) Changes
+
+- **(a)** We may make changes to this EULA - if we do, we will make reasonable efforts to update you about these changes. It is likely we will be publishing an expanded EULA once more features of s&box have been developed.
+- **(b)** If in the unlikely event we stop providing s&box permanently, we will try and give you at least 60 (sixty) days' notice.
+
+## (8) Limitation of Liability
+
+- **(a)** The total liability of Facepunch (and its group companies) arising out of or in connection with this EULA will not exceed £500 per user. We only supply s&box for domestic and private use, and if you use it for any business, commercial or re-sale purposes we will have no liability to you for any loss of profits or business, business interruption or loss of business opportunity.
+
+- **(b)** For users in the UK and EU: the liability cap in 8(a) above does not exclude or limit our liability where it would be unlawful to do so (including death or personal injury caused by our negligence, fraud or fraudulent misrepresentation or breach of your statutory consumer rights).
+
+## (9) Governing Law and Disputes
+
+- **(a)** Normally, we would suggest we try and resolve any disputes informally first - this dispute resolution period lasts 30 days unless exceptional circumstances exist - you can contact us via legal@facepunch.com. You and we have the legal right to commence legal claims against each other if we consider it necessary, as set out below.
+
+  - **(i)** For users not resident in the USA: You and we agree that your use of s&box and this EULA (and any issues arising out of them) will be governed by and interpreted in accordance with the laws of England, and any dispute regarding it will be under the jurisdiction of the courts of England. This does not exclude any mandatorily applicable rules or remedies which would be available to you in a legal claim brought under the laws of your country of residence.
+
+  - **(ii)** For users resident in the USA: You agree to be bound by dispute resolution clause (section 12.2) in the Facepunch Terms of Service (https://facepunch.com/legal/tos), which is expressly incorporated into this EULA in relation to any claims, actions or disputes we have in relation to s&box and this EULA.
+
+## (10) Feedback and Privacy
+
+If you have any questions, concerns or feedback on s&box, please email us on: legal@facepunch.com. For information about our privacy practices, see Facepunch's Privacy Policy: https://facepunch.com/legal/privacy.
