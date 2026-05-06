@@ -1,4 +1,7 @@
-# Facepunch - Code of Conduct
+---
+title: Facepunch - Code of Conduct
+last-update:
+---
 
 At Facepunch Studios, we want our players to enjoy playing our games. This Code of Conduct (Code) applies to all of our games (such as Rust and Garry's Mod). Just to be clear: if something is not specifically called out below it doesn't mean it's OK, so use this Code as a guide.
 

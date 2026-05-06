@@ -1,6 +1,7 @@
-# Community Server and Hosting Guidelines
-
-*Last updated on 15 July 2025*
+---
+title: Community Server and Hosting Guidelines
+last-update: 15 July 2025
+---
 
 > **TL;DR:** We're Facepunch Studios and we make games including Garry's Mod, Rust, Clatter, Chippy, Facepunch prototype games as well as other games, products and services ("Games"). We're fine with people making their own community servers for our Games ("Servers"). Our lawyers have told us that we should put some guidelines in place about how you can do that. If you have any questions, you can reach us at legal@facepunch.com. There are separate guidelines about modding our Games (www.facepunch.com/legal/modding).
 

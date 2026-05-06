@@ -1,4 +1,7 @@
-# Facepunch Studios - Development Contest Terms & Conditions
+---
+title: Facepunch Studios - Development Contest Terms & Conditions
+last-update:
+---
 
 By submitting your entry to the development contest, you agree to be bound by these terms and conditions ("Terms"):
 

@@ -1,6 +1,7 @@
-# Fan Content and Broadcast Guidelines
-
-*Last updated on 15 July 2025*
+---
+title: Fan Content and Broadcast Guidelines
+last-update: 15 July 2025
+---
 
 > **TL;DR:** We're Facepunch Studios and we made games including Garry's Mod, Rust, s&box, Clatter, Chippy, Facepunch prototype games as well as our other games, services and products ("Games"). We're cool with you making fan content and video content about our Games ("Fan Content"), but our lawyers said there should be guidelines about how you can do it (see below). If you have any questions, you can reach us at legal@facepunch.com. There are separate guidelines about modding our Games (www.facepunch.com/legal/modding).
 

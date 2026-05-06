@@ -1,4 +1,7 @@
-# Facepunch IP Policy
+---
+title: Facepunch IP Policy
+last-update:
+---
 
 Facepunch respects the intellectual property of others and we expect the users of our services do the same. If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible through a website or other online service operated by Facepunch, you may notify our copyright agent in accordance with the United States' Digital Millennium Copyright Act 1998 (DMCA). This IP Policy also applies to the European Union's E-Commerce Directive 2000/31/EC (including appropriate EU Member State implementing legislation) in relation to other applicable intellectual property rights.
 

@@ -1,6 +1,7 @@
-# Facepunch Modding Guidelines
-
-*Last updated on 28 August 2019*
+---
+title: Facepunch Modding Guidelines
+last-update: 28 August 2019
+---
 
 > **TL;DR:** We're Facepunch Studios and we make games including Garry's Mod, Rust, Clatter, Chippy, Facepunch prototype games as well as our other games, services and products ("Games"). We're cool with our Games being open for modding by the community (it's how Garry's Mod started after all), but our lawyers have told us that we should put some guidelines in place about how you can do it (see below). If you have any questions, you can reach us at legal@facepunch.com.
 

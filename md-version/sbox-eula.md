@@ -1,6 +1,7 @@
-# s&box - End User License Agreement (EULA)
-
-*Last updated on 15 July 2025*
+---
+title: s&box - End User License Agreement (EULA)
+last-update: 15 July 2025
+---
 
 We are Facepunch Studios Limited based at 8th Floor, 103 Colmore Row, Birmingham, B3 3AG, United Kingdom ("We", "Facepunch"). We are the developers and publishers of s&box, which includes the s&box editor ("s&box").
 

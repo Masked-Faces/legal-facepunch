@@ -1,6 +1,7 @@
-# Facepunch Cookie Policy
-
-*Last updated on 28 August 2019*
+---
+title: Facepunch Cookie Policy
+last-update: 28 August 2019
+---
 
 We (meaning Facepunch Studios Ltd and the Facepunch group of companies) use technologies on our website and online services (which we'll call the Services) to collect information that helps us improve your online experience. We refer to these technologies, which include cookies, collectively as 'cookies.' This policy explains the different types of cookies used on the Services and how you can control them.
 

@@ -1,6 +1,7 @@
-# Privacy Policy
-
-*Last updated on 15 July 2025*
+---
+title: Privacy Policy
+last-update: 15 July 2025
+---
 
 **TL;DR**
 
